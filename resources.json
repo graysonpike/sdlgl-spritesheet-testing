@@ -1,0 +1,12 @@
+{
+    "fonts": {
+        "base_text": {
+            "filename": "Inconsolata/Inconsolata-Regular.ttf",
+            "size": 16
+        }
+    },
+    "textures": {
+        "furniture": { "filename": "japan_home_interior.png" },
+        "room_builder": { "filename": "room_builder.png" }
+    }
+}
